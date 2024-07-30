@@ -1,0 +1,8 @@
+{ "transaction_id": "",
+  "customer_id": "",
+  "timestamp": "",
+  "event_type": "consumed_hour",
+  "properties": {
+    "cloud_provider": "aws"
+  }
+}
